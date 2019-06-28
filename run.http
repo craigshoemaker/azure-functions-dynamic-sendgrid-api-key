@@ -1,0 +1,2 @@
+
+POST http://localhost:7071/api/SendMessage?to=person@test.com&key=SendGridAPIKey1 HTTP/1.1
