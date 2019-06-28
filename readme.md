@@ -26,7 +26,7 @@ To run locally, you can use the following example *local.settings.json*. Be sure
     "Values": {
         "AzureWebJobsStorage": "<AZURE_STORAGE_CONNECTION_STRING>",
         "SendGridAPIKey1": "<SENDGRID_API_KEY_1>",
-        "SendGridAPIKey2": "<SENDGRID_API_KEY_1>",
+        "SendGridAPIKey2": "<SENDGRID_API_KEY_2>",
         "EmailSender": "<SENDER_EMAIL_ADDRESS>",
         "FUNCTIONS_WORKER_RUNTIME": "dotnet"
     }
